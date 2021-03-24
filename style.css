@@ -1,0 +1,36 @@
+body {
+  background-color: blueviolet;
+}
+
+.title {
+  font-size: 500%;
+  text-decoration: underline;
+  color: brown;
+  background-color: burlywood;
+}
+
+.text {
+  font-size: 180%;
+  color: darkkhaki;
+  font-weight: bolder;
+  background-color: brown;
+
+}
+
+#submit {
+  display: block;
+  margin-top: 40px;
+  height: 65px;
+  width: 200px;
+  font-size: 200%;
+  background-color: burlywood;
+}
+
+#input {
+  display: block;
+  height: 60px;
+  width: 300px;
+  text-align: center;
+  font-size: 200%;
+  background-color: burlywood;
+}
